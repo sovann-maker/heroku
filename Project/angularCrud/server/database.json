@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "mname": "Spiderman",
+      "mrating": 10,
+      "mindustry": "Hollywood",
+      "mdate": "2022-02-10"
+    },
+    {
+      "id": 2,
+      "mname": "Batman",
+      "mrating": 7,
+      "mindustry": "Hollywood",
+      "mdate": "2022-02-02"
+    },
+    {
+      "id": 3,
+      "mname": "Aquaman",
+      "mrating": 9,
+      "mindustry": "Hollywood",
+      "mdate": "2022-01-31"
+    },
+    {
+      "id": 4,
+      "mname": "All of Us are Dead",
+      "mrating": 10,
+      "mindustry": "Cinema of Japan",
+      "mdate": "2022-02-14"
+    },
+    {
+      "id": 5,
+      "mname": "Chasing The Dragon 2",
+      "mrating": 7,
+      "mindustry": "Hollywood",
+      "mdate": "2022-02-10"
+    }
+  ]
+}
